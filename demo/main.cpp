@@ -1,4 +1,4 @@
-// Copyright by Enigma
+//Copyright 2022 by Winter Solider
 
 #include <boost/beast/core.hpp>
 #include <boost/beast/http.hpp>
